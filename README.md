@@ -17,4 +17,6 @@ Linux • Nmap • Burp Suite • Wireshark • Python
 
 ## Contact
 
+- LinkedIn: [Mahammad Aliyev](https://www.linkedin.com/in/mahammad-aliyevv)
+- TryHackMe: [MahammadAliyev](https://tryhackme.com/p/MahammadAliyev)
 - GitHub: [mahammadaliyev-sec](https://github.com/mahammadaliyev-sec)
